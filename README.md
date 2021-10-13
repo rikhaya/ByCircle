@@ -1,6 +1,6 @@
 # bycircle
 
-A new Flutter project.
+A new Flutter project Null Safety.
 
 ## Getting Started
 
