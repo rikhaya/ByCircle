@@ -2,6 +2,8 @@
 
 A new Flutter project Null Safety.
 
+<img src="assets/image.png" alt="">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
